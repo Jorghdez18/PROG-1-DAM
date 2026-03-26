@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------
+Test set: com.docencia.arrays.ejercicio7.Ejercicio7Test
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.018 s <<< FAILURE! -- in com.docencia.arrays.ejercicio7.Ejercicio7Test
+com.docencia.arrays.ejercicio7.Ejercicio7Test.sonIgualesArraysIgualesDevuelveTrue -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.UnsupportedOperationException: No implementado
+	at com.docencia.arrays.ejercicio7.Ejercicio7.sonIguales(Ejercicio7.java:9)
+	at com.docencia.arrays.ejercicio7.Ejercicio7Test.sonIgualesArraysIgualesDevuelveTrue(Ejercicio7Test.java:15)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+com.docencia.arrays.ejercicio7.Ejercicio7Test.sonIgualesArraysDistintaLongitudDevuelveFalse -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.UnsupportedOperationException: No implementado
+	at com.docencia.arrays.ejercicio7.Ejercicio7.sonIguales(Ejercicio7.java:9)
+	at com.docencia.arrays.ejercicio7.Ejercicio7Test.sonIgualesArraysDistintaLongitudDevuelveFalse(Ejercicio7Test.java:24)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+com.docencia.arrays.ejercicio7.Ejercicio7Test.sonIgualesArraysMismosElementosDistintoOrdenDevuelveFalse -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.UnsupportedOperationException: No implementado
+	at com.docencia.arrays.ejercicio7.Ejercicio7.sonIguales(Ejercicio7.java:9)
+	at com.docencia.arrays.ejercicio7.Ejercicio7Test.sonIgualesArraysMismosElementosDistintoOrdenDevuelveFalse(Ejercicio7Test.java:33)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+com.docencia.arrays.ejercicio7.Ejercicio7Test.sonIgualesArraysConDiferenciasDevuelveFalse -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.UnsupportedOperationException: No implementado
+	at com.docencia.arrays.ejercicio7.Ejercicio7.sonIguales(Ejercicio7.java:9)
+	at com.docencia.arrays.ejercicio7.Ejercicio7Test.sonIgualesArraysConDiferenciasDevuelveFalse(Ejercicio7Test.java:42)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
